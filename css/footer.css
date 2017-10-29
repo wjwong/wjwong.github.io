@@ -1,0 +1,10 @@
+#a{color: #484848;
+	font-size:15px;	
+	float:left;
+	position: fixed;
+		
+	}
+#b{	float: right;
+	position:sticky;
+	}
+

@@ -1,0 +1,14 @@
+h1{
+	padding:5px;
+	border-bottom-color:#484848;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	font-family:"Eras Bold ITC";
+	color:#484848;
+	font-size:55px;
+	
+}
+@font-face{
+	font-family:"Eras Bold ITC";
+	src: url(ERASBD.ttf);
+}

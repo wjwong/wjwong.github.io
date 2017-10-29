@@ -1,0 +1,28 @@
+@font-face{
+	font-family:"Eras Light ITC";
+	src: url(ERASLGHT.ttf);
+}
+@font-face{
+	font-family:"S2G Moon";
+	src: url(moon.ttf);
+}
+
+p.english{
+	color: #a2a2a2;
+	font-size:20px;
+	font-family:"Eras Light ITC";
+	font-weight:bold;
+}
+
+p.chinese{
+	color: #a2a2a2;
+	font-size:22px;
+	font-family:"S2G Moon";
+	
+}
+a:link{color:#a2a2a2;
+text-decoration:none;}
+a:visited{color:#a2a2a2;}
+a:hover{color:black;}  
+	
+	
